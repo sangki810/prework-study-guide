@@ -14,7 +14,7 @@ This study guide page contains one visible and one hidden feature. The first vis
 
 ## Credits
 
-I would like to thank my tutor Andres Long for helping through Module 2.4.6 and tutoring through the git work flow
+I would like to thank my tutor Andres Long for helping through Module 2.4.6 and tutoring me through the git work flow.
 https://github.com/AndresLong01
 
 ## License
